@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import pyttsx3
 from Vlad_up import UP
-from commands import terminate
+#from commands import terminate
 
 # Text To Speech
 
